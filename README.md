@@ -1,4 +1,5 @@
-### Hi there 👋
+[![automaticdoors315's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkness4life14)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **darkness4life14/darkness4life14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
